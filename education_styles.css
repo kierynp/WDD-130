@@ -1,0 +1,43 @@
+header {
+    font-family: sans-serif;
+    color: white;
+    font-size: 110%;
+    margin: 0 auto;
+    text-align: center;
+}
+header:hover {
+    color: black;
+}
+.quote {
+    font-size: 60%;
+}
+body {
+    background: #FD9BC5;
+    margin: 0 auto;
+}
+ol {
+    font-weight: bold;
+    margin: 20px 100px;
+}
+body p {
+    font-family: serif;
+    color: white;
+    text-align: center;
+    margin: 40px 40px;
+    font-size: 180%;
+}
+header p {
+    font-size: 90%;
+    font-weight: bolder;
+    margin: 10px auto;
+}
+footer p {
+    font-size: 70%;
+    color: black;
+    margin: 5px auto;
+}
+img {
+    width: 20%;
+    display: block;
+    margin: 0 auto;
+}
