@@ -4,6 +4,8 @@
 }
 nav a {
     text-align: center;
+    color: #F7F7FF;
+    text-decoration: none;
 }
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
@@ -13,4 +15,58 @@ nav a {
 }
 main section {
     text-align: center;
+}
+body {
+    background-color: #F7F7FF;
+}
+#background {
+    height: 725px;
+    background-color: #F7F7FF;
+}
+header {
+    background-color: #4e776b;
+}
+nav a:hover {
+    background-color: #37374d;
+}
+.book, .join {
+    background-color: #37374d;
+    color: #F7F7FF;
+    padding: 15px 140px;
+    text-align: center;
+    vertical-align: center;
+    border: blue;
+    text-decoration: none;
+}
+.book:hover, .join:hover {
+    background-color: #4e776b;
+    color: black;
+}
+.msg {
+    background-color: #FCB688;
+    border: blue;
+}
+footer {
+    background-color: #4e776b;
+    color: #F7F7FF;
+}
+h1, h2, h4 {
+    color: #37374d;
+}
+footer a {
+    color: #F7F7FF;
+    text-decoration: none;
+}
+footer a:hover {
+    background-color: #37374d;
+    text-decoration: underline;
+}
+.logo, .icon {
+    width: 80px;
+}
+#hero-img {
+    width: 100%;
+}
+footer p {
+    font-size: 1.2em;
 }
