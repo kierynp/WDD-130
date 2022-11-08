@@ -136,9 +136,9 @@
   background-color: blue; 
 } 
 /* Activity 5 styles */ 
-.content5 {
+/* .content5 {
   /* This is the parent of the activity 5 boxes. */
-}
+
 .red5 { 
   width: 100%; 
   height: 100px; 
