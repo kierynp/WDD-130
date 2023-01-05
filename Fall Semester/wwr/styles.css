@@ -106,7 +106,6 @@ footer a {
 }
 footer a:hover {
     background-color: #37374d;
-    text-decoration: underline;
 }
 .logo, .icon {
     width: 80px;
